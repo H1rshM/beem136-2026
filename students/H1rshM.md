@@ -1,7 +1,7 @@
-# Your Name
+# Harsh Mehrotra
 
-- **GitHub**: @your-username
-- **Programme**: MRes Economics / PhD Economics / ...
-- **Language I know best (if any)**: Stata / R / Python / none yet
+- **GitHub**: @H1rshM
+- **Programme**: PhD Finance
+- **Language I know best**: Python
 - **An economic question I would like to answer with data**:
-  Does ... cause ...?
+  Does oil-price uncertainty delay investment by US shale producers?
